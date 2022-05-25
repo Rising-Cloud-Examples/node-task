@@ -93,4 +93,4 @@ Rising Cloud may will take a few moments to spin-up your and proces your request
 
 Click the twisty to open up your Job, and then click Argument to see both your input 10 and the output 100!
 
-Congratulations! You’ve successfully created and used Node on Rising Cloud!
+Congratulations! You’ve successfully used Node on Rising Cloud!
